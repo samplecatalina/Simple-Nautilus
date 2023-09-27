@@ -1,5 +1,6 @@
 # Simple-Nautilus
 *Python, Bash, Linux*
+
 Completed in Sept. 2022
 
 ## [Digest](https://github.com/samplecatalina/Simple-Nautilus#digest)

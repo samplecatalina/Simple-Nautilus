@@ -1,5 +1,7 @@
 # Simple-Nautilus
 
+Completed in Sept. 2022
+
 ## [Digest](https://github.com/samplecatalina/Simple-Nautilus#digest)
 - Created a Python-based application that mimics the functionalities of a Unix shell with an interactive user interface.
 

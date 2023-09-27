@@ -1,0 +1,11 @@
+su
+su xray
+su root
+adduser alpha
+su alpha
+su
+su alpha
+su root
+su alpha
+adduser alpha
+exit

@@ -1,0 +1,10 @@
+adduser alpha
+su alpha
+touch f
+chown root f
+su
+chown root f
+chown bravo f
+chown root d
+chown bravo d
+exit

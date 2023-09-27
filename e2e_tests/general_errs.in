@@ -1,0 +1,23 @@
+pwc
+cd
+cd cd
+mkdir
+mkdir mkdir
+touch
+touch touch
+cp
+cp cp
+mv
+mv mv
+rm
+rm rm
+rmdir rmdir
+rmdir
+!!!
+@
+exit exit
+touch "pride_and_prejudice.mp4"
+rm pride_and_prejudice.mp4
+touch long_bow_apache.jpg
+rm "long_bow_apache.jpg"
+exit

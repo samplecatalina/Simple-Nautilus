@@ -1,0 +1,20 @@
+mkdir one
+touch two
+mkdir -p one
+mkdir -p two
+mkdir -p one/two/three
+cd one/two/three 
+pwd
+mkdir a
+touch /a/p 
+cd /a
+ls
+touch /alpha/bravo/charlie
+touch alpha/bravo/charlie
+mkdir bravo
+touch bravo/bravo/charlie
+mkdir /bravo/bravo
+touch bravo/bravo/charlie
+cd bravo/bravo/charlie
+cd bravo/bravo
+exit

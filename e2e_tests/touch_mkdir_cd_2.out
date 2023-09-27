@@ -1,0 +1,5 @@
+root:/$ mkdir: Ancestor directory does not exist
+root:/$ root:/$ root:/$ mkdir: File exists
+root:/$ mkdir: File exists
+root:/$ /
+root:/$ bye, root

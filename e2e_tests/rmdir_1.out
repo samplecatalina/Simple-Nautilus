@@ -1,0 +1,13 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ cd: No such file or directory
+root:/$ rmdir: No such file or directory
+root:/$ root:/$ rmdir: Not a directory
+root:/$ root:/$ rmdir: Directory not empty
+root:/$ root:/$ rmdir: Directory not empty
+root:/$ rmdir: Cannot remove pwd
+root:/$ rmdir: Cannot remove pwd
+root:/$ rmdir: Cannot remove pwd
+root:/$ root:/$ root:/halo$ rmdir: Cannot remove pwd
+root:/halo$ rmdir: Directory not empty
+root:/halo$ rmdir: Directory not empty
+root:/halo$ rmdir: Cannot remove pwd
+root:/halo$ bye, root

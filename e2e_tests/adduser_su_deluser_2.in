@@ -1,0 +1,9 @@
+deluser root
+su
+su root
+su alpha
+adduser alpha
+deluser alpha
+su alpha
+deluser bravo
+exit

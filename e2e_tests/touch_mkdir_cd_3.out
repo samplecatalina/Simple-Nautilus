@@ -1,0 +1,9 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/one/two/three$ /one/two/three
+root:/one/two/three$ root:/one/two/three$ touch: Ancestor directory does not exist
+root:/one/two/three$ cd: No such file or directory
+root:/$ one two 
+root:/$ touch: Ancestor directory does not exist
+root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ root:/$ cd: Destination is a file
+root:/$ root:/bravo/bravo$ bye, root

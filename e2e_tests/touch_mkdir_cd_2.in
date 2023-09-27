@@ -1,0 +1,7 @@
+mkdir one/two/three
+mkdir one
+touch two
+mkdir one
+mkdir two
+pwd
+exit

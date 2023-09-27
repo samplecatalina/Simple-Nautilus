@@ -1,0 +1,17 @@
+cd /
+cd .
+cd ././.
+cd /./././.
+cd ..
+cd ../..
+cd /../../..
+cd ../.
+cd ./..
+cd nord
+touch nord
+cd nord
+mkdir stream
+cd stream
+cd /
+cd /stream
+exit

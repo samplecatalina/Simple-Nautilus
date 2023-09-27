@@ -1,0 +1,6 @@
+mkdir alpha
+mkdir charlie
+touch /charlie/polo
+mv /charlie/polo /alpha/kilo
+cd /charlie/polo
+exit

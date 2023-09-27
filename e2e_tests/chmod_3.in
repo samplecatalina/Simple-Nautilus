@@ -1,0 +1,25 @@
+touch f
+ls -l
+chmod o=r f
+chmod o=w f
+chmod o=x f
+chmod o= f
+chmod o+r f
+chmod o+w f
+chmod o+x f
+chmod o-r f
+chmod o-w f
+chmod o-x f
+mkdir d
+ls -l
+chmod o=r d
+chmod o=w d
+chmod o=x d
+chmod o= d
+chmod o+r d
+chmod o+w d
+chmod o+x d
+chmod o-r d
+chmod o-w d
+chmod o-x d
+exit

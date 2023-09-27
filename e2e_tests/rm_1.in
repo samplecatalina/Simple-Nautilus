@@ -1,0 +1,10 @@
+mkdir alpha
+mkdir charlie
+touch /charlie/polo
+cp /charlie/polo /alpha/kilo
+rm /charlie/polo
+rm charlie
+touch fox
+rm fox
+rm golf
+exit

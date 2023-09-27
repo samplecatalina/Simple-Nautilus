@@ -1,0 +1,22 @@
+mkdir alpha
+mkdir charlie
+mkdir /charlie/polo
+rmdir /charlie/polo
+cd /charlie/polo
+rmdir bravo
+touch bravo
+rmdir bravo
+touch alpha/fox
+rmdir alpha
+mkdir golf
+rmdir golf
+rmdir .
+rmdir ..
+rmdir /
+mkdir halo
+cd halo
+rmdir .
+rmdir ..
+rmdir /
+rmdir /halo
+exit

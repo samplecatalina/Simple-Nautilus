@@ -1,0 +1,31 @@
+touch alpha
+touch bravo
+mkdir charlie
+mv alpha bravo
+mv /alpha /bravo
+mv /alpha bravo
+mv alpha /bravo
+mv ./alpha ./bravo
+mv ../alpha ../bravo
+mv alpha charlie
+mv /alpha /charlie
+mv /alpha charlie
+mv alpha /charlie
+mv ./alpha ./charlie
+mv ../alpha ../charlie
+mv charlie delta
+mv /charlie /delta
+mv /charlie delta
+mv charlie /delta
+mv ./charlie ./delta
+mv ../charlie ../delta
+mv delta fox
+mv /delta fox
+mv delta /fox
+mv /delta /fox
+mv ./delta ./fox
+mv ../delta ../fox
+mv alpha bravo/golf
+mv alpha/golf bravo
+mv alpha/golf bravo/golf
+exit

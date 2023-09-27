@@ -1,4 +1,4 @@
-# Simple-Nautilus
+# Simple-Nautilus: A Unix Shell Simulator
 *Python, Bash, Linux*
 
 Completed in Sept. 2022
